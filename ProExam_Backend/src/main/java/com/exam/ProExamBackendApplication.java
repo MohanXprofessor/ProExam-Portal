@@ -8,6 +8,8 @@ public class ProExamBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProExamBackendApplication.class, args);
+		
+		//Push on GitHub
 	}
 
 }
